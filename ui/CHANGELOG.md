@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/landlockedboat/release-please-test/compare/myui@v1.5.0...myui@v1.6.0) (2025-01-13)
+
+
+### Features
+
+* **ui:** important feature ([b76a98f](https://github.com/landlockedboat/release-please-test/commit/b76a98ff37328595c0fd6995acdc43ff8bcda175))
+
 ## [1.5.0](https://github.com/landlockedboat/release-please-test/compare/myui@1.4.0...myui@v1.5.0) (2025-01-13)
 
 
