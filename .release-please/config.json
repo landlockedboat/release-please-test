@@ -9,13 +9,16 @@
     "api": {
       "release-type": "maven",
       "skip-snapshot": true,
-      "package-name": "api"
+      "package-name": "api",
+      "component-no-space": true
     },
     "ui": {
-      "release-type": "node"
+      "release-type": "node",
+      "component-no-space": true
     },
     "chart": {
-      "release-type": "helm"
+      "release-type": "helm",
+      "component-no-space": true
     }
   }
 }
