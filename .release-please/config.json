@@ -5,16 +5,14 @@
   "pull-request-header": ":rocket: New Release",
   "packages": {
     "api": {
-      "path": "api",
       "release-type": "maven",
-      "skip-snapshot": true
+      "skip-snapshot": true,
+      "package-name": "api"
     },
     "ui": {
-      "path": "ui",
       "release-type": "node"
     },
     "chart": {
-      "path": "chart",
       "release-type": "helm"
     }
   }
