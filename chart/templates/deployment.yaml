@@ -1,6 +1,5 @@
 apiVersion: apps/v1
 kind: Deployment
-# this is a patch change
 metadata:
   name: {{ include "mychart.fullname" . }}
   labels:
