@@ -1,5 +1,24 @@
 # Changelog
 
+## [3.0.0](https://github.com/landlockedboat/release-please-test/compare/api-v2.0.0...api@v3.0.0) (2025-01-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* super breaking change
+
+### Features
+
+* does this needs to be scoped ([9f92f2a](https://github.com/landlockedboat/release-please-test/commit/9f92f2ac2879f1bd7feb138d467049d5d3648fa5))
+* initial commit ([f68b120](https://github.com/landlockedboat/release-please-test/commit/f68b1208b8db627c9d3887c3077d6ceafebdbb7d))
+* super breaking change ([7638d2d](https://github.com/landlockedboat/release-please-test/commit/7638d2dfaec83dd77b56d5761be4b1256267b5e6))
+
+
+### Bug Fixes
+
+* delete changelog.md ([5759506](https://github.com/landlockedboat/release-please-test/commit/57595069db3051c1a4d04f92959f9762e798d85f))
+* remove test file ([7985b79](https://github.com/landlockedboat/release-please-test/commit/7985b791c8507bbd6f299327199afdfe13b78e25))
+
 ## [2.0.0](https://github.com/landlockedboat/release-please-test/compare/api@v1.4.0...api@v2.0.0) (2025-01-13)
 
 
