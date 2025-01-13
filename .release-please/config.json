@@ -1,21 +1,21 @@
 {
-    "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
-    "include-component-in-tag": true,
-    "include-v-in-tag": false,
-    "tag-separator": "@",
-    "separate-pull-requests": false,
-    "packages": {
-        "api": {
-            "path": "api",
-            "release-type": "maven"
-        },
-        "ui": {
-            "path": "ui",
-            "release-type": "node"
-        },
-        "chart": {
-            "path": "chart",
-            "release-type": "helm"
-        }
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "include-component-in-tag": true,
+  "tag-separator": "@",
+  "pull-request-header": ":rocket: New Release",
+  "packages": {
+    "api": {
+      "path": "api",
+      "release-type": "maven",
+      "skip-snapshot": true
+    },
+    "ui": {
+      "path": "ui",
+      "release-type": "node"
+    },
+    "chart": {
+      "path": "chart",
+      "release-type": "helm"
     }
+  }
 }
