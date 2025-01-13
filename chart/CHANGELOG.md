@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/landlockedboat/release-please-test/compare/mychart@v0.6.0...mychart@v0.7.0) (2025-01-13)
+
+
+### Features
+
+* test more chart stuff ([4cceb68](https://github.com/landlockedboat/release-please-test/commit/4cceb68dd45f49da986c3e0d59cc69b538951b1e))
+
 ## [0.6.0](https://github.com/landlockedboat/release-please-test/compare/mychart-v0.5.1...mychart@v0.6.0) (2025-01-13)
 
 
