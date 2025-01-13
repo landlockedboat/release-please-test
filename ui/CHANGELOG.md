@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.1.0](https://github.com/landlockedboat/release-please-test/compare/myui@v3.0.0...myui@v3.1.0) (2025-01-13)
+
+
+### Features
+
+* more tests ([4499039](https://github.com/landlockedboat/release-please-test/commit/4499039ee9f5d696b34ca65048c39864834cdd72))
+* more tests ([2a09566](https://github.com/landlockedboat/release-please-test/commit/2a095665d36d5dab15494866ab0d619b65924a56))
+* test commit for pr title ([4589471](https://github.com/landlockedboat/release-please-test/commit/4589471dc1742b6b203c54a338998e827ba849ea))
+
 ## [3.0.0](https://github.com/landlockedboat/release-please-test/compare/myui@v2.0.0...myui@v3.0.0) (2025-01-13)
 
 
