@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/landlockedboat/release-please-test/compare/api@v1.4.0...api@v2.0.0) (2025-01-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* super breaking change
+
+### Features
+
+* super breaking change ([7638d2d](https://github.com/landlockedboat/release-please-test/commit/7638d2dfaec83dd77b56d5761be4b1256267b5e6))
+
 ## [1.4.0](https://github.com/landlockedboat/release-please-test/compare/api-v1.3.0...api@v1.4.0) (2025-01-13)
 
 
