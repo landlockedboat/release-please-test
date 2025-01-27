@@ -1,6 +1,5 @@
 apiVersion: apps/v1
 kind: Deployment
-# another test
 metadata:
   name: {{ include "mychart.fullname" . }}
   labels:
