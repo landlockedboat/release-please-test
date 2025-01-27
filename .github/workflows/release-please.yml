@@ -20,7 +20,8 @@ jobs:
           config-file: .release-please/config.json
           manifest-file: .release-please/manifest.json
       - name: Print release outputs for debugging
-        continue-on-error: true
+        env:
+          RELEASE_OUTPUTS: ${{ toJson(steps.release.outputs) }}
         run: |
           echo "Release outputs:"
-          echo "${{ toJson(steps.release.outputs) }}"
+          echo "$RELEASE_OUTPUTS"
