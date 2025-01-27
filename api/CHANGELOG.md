@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/landlockedboat/release-please-test/compare/api@v3.0.0...api@v3.1.0) (2025-01-27)
+
+
+### Features
+
+* test api stuff ([6a5f39f](https://github.com/landlockedboat/release-please-test/commit/6a5f39fb316a98d4ac554c54c4ba57943ea1d6d9))
+
 ## [3.0.0](https://github.com/landlockedboat/release-please-test/compare/api-v2.0.0...api@v3.0.0) (2025-01-13)
 
 
