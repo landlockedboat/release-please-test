@@ -12,10 +12,12 @@
       "package-name": "api"
     },
     "ui": {
-      "release-type": "node"
+      "release-type": "node",
+      "package-name": "ui"
     },
     "chart": {
-      "release-type": "helm"
+      "release-type": "helm",
+      "package-name": "chart"
     }
   }
 }
