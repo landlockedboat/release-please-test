@@ -24,4 +24,4 @@ jobs:
           RELEASE_OUTPUTS: ${{ toJson(steps.release.outputs) }}
         run: |
           echo "Release outputs:"
-          echo "$RELEASE_OUTPUTS"
+          echo "echo $RELEASE_OUTPUTS | jq"
