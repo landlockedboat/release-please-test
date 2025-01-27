@@ -5,20 +5,18 @@
   "pull-request-title-pattern": "chore(${component}): release ${version}",
   "pull-request-header": ":rocket: New Release",
   "separate-pull-requests": true,
+  "component-no-space": true,
   "packages": {
     "api": {
       "release-type": "maven",
       "skip-snapshot": true,
-      "package-name": "api",
-      "component-no-space": true
+      "package-name": "api"
     },
     "ui": {
-      "release-type": "node",
-      "component-no-space": true
+      "release-type": "node"
     },
     "chart": {
-      "release-type": "helm",
-      "component-no-space": true
+      "release-type": "helm"
     }
   }
 }
