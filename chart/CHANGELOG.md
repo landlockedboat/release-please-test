@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.1](https://github.com/landlockedboat/release-please-test/compare/chart@v0.8.0...chart@v0.8.1) (2025-01-31)
+
+
+### Bug Fixes
+
+* chart test ([b41c08d](https://github.com/landlockedboat/release-please-test/commit/b41c08dc26d7191ad29d42e39dfb5cb98c3c2842))
+
 ## [0.8.0](https://github.com/landlockedboat/release-please-test/compare/chart-v0.7.0...chart@v0.8.0) (2025-01-27)
 
 
