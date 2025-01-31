@@ -1,5 +1,18 @@
 # Changelog
 
+## [5.0.0](https://github.com/landlockedboat/release-please-test/compare/ui@v4.0.0...ui@v5.0.0) (2025-01-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change in ui
+
+### Features
+
+* breaking change in ui ([1b3baf9](https://github.com/landlockedboat/release-please-test/commit/1b3baf9a846c5216dba3645cf0781da20b9dee92))
+* release-please test ([e463e35](https://github.com/landlockedboat/release-please-test/commit/e463e359424182ca43fef0f1876533910e8ffcfa))
+* ui change ([a648d2e](https://github.com/landlockedboat/release-please-test/commit/a648d2e9ee9cf771878eb6fb62ad5ce53d80d630))
+
 ## [4.0.0](https://github.com/landlockedboat/release-please-test/compare/ui-v3.1.0...ui@v4.0.0) (2025-01-27)
 
 
