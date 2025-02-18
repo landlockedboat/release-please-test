@@ -9,7 +9,10 @@
       "release-type": "java",
       "skip-snapshot": true,
       "extra-files": [
-        "pom.xml"
+        {
+          "type": "pom",
+          "path": "pom.xml"
+        }
       ]
     }
   }
