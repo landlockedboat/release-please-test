@@ -2,22 +2,15 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "include-component-in-tag": true,
   "tag-separator": "@",
-  "pull-request-title-pattern": "chore: release${component} ${version}",
   "pull-request-header": ":rocket: New Release",
-  "separate-pull-requests": true,
+  "separate-pull-requests": false,
   "packages": {
-    "api": {
-      "release-type": "maven",
+    ".": {
+      "release-type": "java",
       "skip-snapshot": true,
-      "package-name": "api"
-    },
-    "ui": {
-      "release-type": "node",
-      "package-name": "ui"
-    },
-    "chart": {
-      "release-type": "helm",
-      "package-name": "chart"
+      "extra-files": [
+        "pom.xml"
+      ]
     }
   }
 }
